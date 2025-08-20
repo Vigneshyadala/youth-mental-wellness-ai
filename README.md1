@@ -1,0 +1,31 @@
+# 🌱 Youth Mental Wellness AI
+
+A Generative AI-powered youth mental wellness app with:
+
+- 💬 **AI Chat Support** (empathetic conversations)
+- 😊 **Daily Mood Check-In** (track emotions)
+- 📘 **Resource Suggestions** (self-care tips + helpline links)
+
+---
+
+## 🚀 Features (Prototype)
+1. Type a message → get an **empathetic AI response**  
+2. Select your **daily mood emoji/scale**  
+3. Receive **personalized self-care suggestions**  
+
+---
+
+## 🌐 Live Demo
+👉 [Try the app here](https://huggingface.co/spaces/vigneshyadala/youth-mental-wellness-ai)
+
+---
+
+## 📌 Tech Stack
+- **Frontend:** Streamlit
+- **Backend (Prototype):** Python
+- **Deployment:** Hugging Face Spaces
+
+---
+
+## ⚖️ License
+MIT License
