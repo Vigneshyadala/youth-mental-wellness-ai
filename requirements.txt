@@ -1,0 +1,33 @@
+# Streamlit UI
+streamlit==1.25.0
+
+# Hugging Face Transformers for NLP
+transformers==4.44.0
+
+# PyTorch backend for models
+torch==2.1.0
+torchvision==0.16.1
+torchaudio==2.1.1
+
+# Google Translator API (multilingual support)
+googletrans==4.0.0-rc1
+
+# Optional NLP utilities
+sentencepiece==0.1.98
+tokenizers==0.13.3
+sentence-transformers==2.2.2
+
+# Data handling
+pandas==2.1.1
+numpy==1.26.0
+
+# Misc / logging
+requests==2.31.0
+regex==2025.9.1
+tqdm==4.66.1
+
+# Safety / text filtering (optional)
+profanity-check==1.0.6
+
+# For deployment / Hugging Face Spaces
+pyyaml==6.0
